@@ -18,9 +18,12 @@
 💬 Ask me about cryptocurrency  <br>
 🌱 I’m studying Computer Science at University of Bristol  <br>
   </p>
-<p align="center">
-  <img width="450" src="https://github-readme-stats-beta-steel-43.vercel.app/api?username=MurrayGroves&theme=react&show_icons=true&count_private=true">
+  <p align="center">
+  <img width="450" src="https://github-readme-stats-beta-steel-43.vercel.app/api/wakatime?username=murraygroves&langs_count=16&layout=compact&custom_title=Past%20Year%20Stats&theme=react">
 </p>
 <p align="center">
   <img width="450" src="https://github-readme-stats-beta-steel-43.vercel.app/api/top-langs/?username=MurrayGroves&layout=compact&theme=react&count_private=true&exclude_repo=os-hackathon,MurraxCoin-Faucet,posthog.com,CBIS-Education-4WD-Car-Xbox-Controller-Interface,github-readme-stats,code-sign-action">
+</p>
+<p align="center">
+  <img width="450" src="https://github-readme-stats-beta-steel-43.vercel.app/api?username=MurrayGroves&theme=react&show_icons=true&count_private=true">
 </p>
