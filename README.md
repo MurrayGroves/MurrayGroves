@@ -24,6 +24,3 @@
 <p align="center">
   <img width="450" src="https://github-readme-stats-beta-steel-43.vercel.app/api/top-langs/?username=MurrayGroves&layout=compact&theme=react&count_private=true&exclude_repo=os-hackathon,MurraxCoin-Faucet,posthog.com,CBIS-Education-4WD-Car-Xbox-Controller-Interface,github-readme-stats,code-sign-action">
 </p>
-<p align="center">
-  <img width="450" src="https://github-readme-stats-beta-steel-43.vercel.app/api?username=MurrayGroves&theme=react&show_icons=true&count_private=true">
-</p>
