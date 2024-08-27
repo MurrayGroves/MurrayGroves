@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="mailto:github@murraygrov.es">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/EMail-D14836?style=for-the-badge&logo=mailgun&logoColor=white" />
   </a>
   <!--<a href="placeholder">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />        
@@ -15,7 +15,7 @@
  </p>
  <p align="center">
   😄 Pronouns: He/Him  <br>
-💬 Ask me about cryptocurrency  <br>
+💬 Learning about distributed systems  <br>
 🌱 I’m studying Computer Science at University of Bristol  <br>
   </p>
   <p align="center">
