@@ -19,5 +19,5 @@
 🌱 I’m studying Computer Science at University of Bristol, <br> and currently serving as Webmaster for the <a href="https://cssbristol.co.uk">Computer Science Society</a>  <br>
   </p>
   <p align="center">
-  <img width="450" src="https://github-readme-stats-beta-steel-43.vercel.app/api/wakatime?username=murraygroves&langs_count=16&layout=compact&custom_title=Past%20Year%20Stats&theme=react">
+  <img width="450" src="https://github-readme-stats-beta-steel-43.vercel.app/api/wakatime?username=murraygroves&langs_count=16&layout=compact&custom_title=All-time%20Stats&theme=react">
 </p>
